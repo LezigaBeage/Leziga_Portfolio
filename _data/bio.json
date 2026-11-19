@@ -2,10 +2,10 @@
   "basics": {
     "name": "Leziga Beage",
     "label": "Electrical Engineering | Embedded Systems, Hardware Integration & Validation",
-    "picture": "https://lezbe.github.io/Leziga_Portfolio/img/headshot.png",
+    "picture": "https://lezigabeage.github.io/Leziga_Portfolio/img/headshot.png",
     "email": "",
     "phone": "",
-    "website": "https://github.com/LezBe/Leziga_Portfolio",
+    "website": "https://github.com/LezigaBeage/Leziga_Portfolio",
     "summary": "Senior electrical engineering student at the University of Houston, concentrating on computer and embedded systems. I build and test hardware, embedded control systems, digital logic, and electronics interfaces. My experience includes FPGA development, EMI/EMC validation for medical electrodes, avionics sensor-board design, and product marketing engineering at Texas Instruments.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "LezBe",
-        "url": "https://github.com/LezBe"
+        "username": "LezigaBeage",
+        "url": "https://github.com/LezigaBeage"
       },
       {
         "network": "linkedin",
