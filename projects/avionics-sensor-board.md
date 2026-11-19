@@ -4,7 +4,7 @@ type: project
 title: "Avionics Sensor Board"
 date: 2026
 published: true
-projecturl: "https://github.com/LezBe/Avionics-Sensor-Board"
+projecturl: "https://github.com/LezigaBeage/Avionics-Sensor-Board"
 labels:
   - PCB Design
   - KiCad
@@ -29,10 +29,10 @@ A collaborative avionics hardware project for a University of Houston rocketry t
 
 These are **actual design files**, not illustrative screenshots:
 
-- [BMP sensor schematic](https://github.com/LezBe/Avionics-Sensor-Board/blob/main/hardware/BMP_unit.kicad_sch)
-- [LSM6DSO32 sensor design folder](https://github.com/LezBe/Avionics-Sensor-Board/tree/main/hardware/LSM6DSO32_schematic)
-- [GPS board design folder](https://github.com/LezBe/Avionics-Sensor-Board/tree/main/hardware/GPS%20board)
-- [Integrated ESP32 Sensor Hat PCB/schematic](https://github.com/LezBe/Avionics-Sensor-Board/tree/main/hardware/sensor_board)
+- [BMP sensor schematic](https://github.com/LezigaBeage/Avionics-Sensor-Board/blob/main/hardware/BMP_unit.kicad_sch)
+- [LSM6DSO32 sensor design folder](https://github.com/LezigaBeage/Avionics-Sensor-Board/tree/main/hardware/LSM6DSO32_schematic)
+- [GPS board design folder](https://github.com/LezigaBeage/Avionics-Sensor-Board/tree/main/hardware/GPS%20board)
+- [Integrated ESP32 Sensor Hat PCB/schematic](https://github.com/LezigaBeage/Avionics-Sensor-Board/tree/main/hardware/sensor_board)
 
 ### My Contributions
 
@@ -42,4 +42,4 @@ Contributed to avionics hardware development, including sensor-interface design 
 
 PCB and schematic source files are present on `main`. The published bring-up checklist is not signed off; there are no publicly documented measured performance results in the reviewed repository. Do not interpret file presence alone as manufacturing or flight qualification.
 
-[Read the complete source and hardware documentation](https://github.com/LezBe/Avionics-Sensor-Board).
+[Read the complete source and hardware documentation](https://github.com/LezigaBeage/Avionics-Sensor-Board).
