@@ -4,7 +4,7 @@ type: project
 title: "FPGA Binary Sequence Memory Game"
 date: 2026
 published: true
-projecturl: "https://github.com/LezBe/FPGA-Binary-Sequence-Memory-Game"
+projecturl: "https://github.com/LezigaBeage/FPGA-Binary-Sequence-Memory-Game"
 labels:
   - FPGA
   - Verilog
@@ -36,4 +36,4 @@ The design combines multi-stage ID and password authentication, pseudo-random se
 
 The final implementation reached complete module-level verification and partial hardware bring-up, with the sequence-display routing remaining as the primary integration issue.
 
-[View the complete source code and technical documentation on GitHub](https://github.com/LezBe/FPGA-Binary-Sequence-Memory-Game).
+[View the complete source code and technical documentation on GitHub](https://github.com/LezigaBeage/FPGA-Binary-Sequence-Memory-Game).
