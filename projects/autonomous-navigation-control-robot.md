@@ -4,7 +4,7 @@ type: project
 title: "Autonomous Navigation & Control Robot"
 date: 2025
 published: true
-projecturl: "https://github.com/LezBe/Autonomous-Navigation-Control-Robot"
+projecturl: "https://github.com/LezigaBeage/Autonomous-Navigation-Control-Robot"
 labels:
   - Embedded Systems
   - TI-RTOS
@@ -30,4 +30,4 @@ The robot used front and right-side IR distance sensors to navigate autonomously
 - Used a 2 × 20 ping-pong buffer for control-error logging
 - Integrated line-sensor events with LED feedback and a one-minute shutdown sequence
 
-[View the complete source code and technical documentation on GitHub](https://github.com/LezBe/Autonomous-Navigation-Control-Robot).
+[View the complete source code and technical documentation on GitHub](https://github.com/LezigaBeage/Autonomous-Navigation-Control-Robot).
