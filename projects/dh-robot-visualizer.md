@@ -4,7 +4,7 @@ type: project
 title: "Interactive DH Robot Visualizer"
 date: 2026
 published: true
-projecturl: "https://github.com/LezBe/DH-Robot-Visualizer"
+projecturl: "https://github.com/LezigaBeage/DH-Robot-Visualizer"
 demourl: "https://dh-robot-visualizer.onrender.com/"
 labels:
   - Robotics
@@ -37,4 +37,4 @@ The deployed application is the primary interactive evidence. Static screenshot 
 
 Participated in the project's technical evaluation and refinement, identifying usability and mathematical-visualization issues and helping guide improvements to interactive motion and frame presentation. The repository includes source code and unit tests; deployment availability is not guaranteed at every moment.
 
-**[Browse source code](https://github.com/LezBe/DH-Robot-Visualizer)** · **[Review tests](https://github.com/LezBe/DH-Robot-Visualizer/blob/main/test_dh.py)**
+**[Browse source code](https://github.com/LezigaBeage/DH-Robot-Visualizer)** · **[Review tests](https://github.com/LezigaBeage/DH-Robot-Visualizer/blob/main/test_dh.py)**
